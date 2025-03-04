@@ -1,0 +1,2 @@
+gitpython>=3.1.43
+websockets>=11.0.1
